@@ -42,6 +42,14 @@ variable Pilihan akan menginput 2 pernyataan yaitu Ya/Tidak
 Jika memilih Ya(if), maka akan loop dan dapat menghitung total harga kembali. 
 Jika memilih Tidak(else), maka akan keluar dari program exit()
 
+HASIL/OUTPUT DARI PROGRAM YANG SAYA BUAT
+![image](https://github.com/user-attachments/assets/3d572e34-09fa-4676-8b8f-6e63b5167a32)
+![image](https://github.com/user-attachments/assets/4c21b96b-482f-4af2-9029-96e2e7efe166)
+
+Pada Gambar 1 saya melihatkan output dari terminal serta alur dari program tersebut
+Pada Gambar 2 saya melihatkan output dari terminal apabila username & password yang kita input tidak sesuai
+
+
   2). Membuat Flowchart
 ![MiniProject(1) Daspro - Zyrus Alfredo Randan Malinggato (2409116120)](https://github.com/user-attachments/assets/10a6d58a-c333-418f-ab63-de553f4791c5)
 Pada awalan kita memberikan "Mulai" selanjutnya akan di proses pada bagian page Login untuk menginput username & password, setelah itu akan di proses dengan ketentuan 
